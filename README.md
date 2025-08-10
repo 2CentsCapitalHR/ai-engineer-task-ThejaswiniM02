@@ -47,10 +47,10 @@ Included Test Documents:
 - privacy_partial.docx — Partially compliant Privacy Policy
 - compliance_disaster.docx — Multiple issues for testing
 
-Notes
+Notes:
 The vector store adgm_vectorstore/ is already built from official ADGM sources.
 For best results, use clear, well-structured .docx documents.
 
-Author
+Author:
 Thejaswini M
 AI Engineer Task Submission – 2Cents Capital
